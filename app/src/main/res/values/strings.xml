@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testService</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="count">count</string>
+    <string name="get_count">get Count</string>
+</resources>
